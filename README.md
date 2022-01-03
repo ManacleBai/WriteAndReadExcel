@@ -1,2 +1,2 @@
 # WriteAndReadExcel
- dataRead for STL or char*
+ dataRead *.csv for STL or char*
